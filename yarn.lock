@@ -5535,9 +5535,9 @@ worker-farm@^1.3.1:
     errno "^0.1.4"
     xtend "^4.0.1"
 
-world-countries@1.8.0:
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/world-countries/-/world-countries-1.8.0.tgz#17f48e7e8470ac5a2136ad6938dfc656fc2bcb95"
+"world-countries@https://github.com/MrSltun/countries.git#arabicTranslation":
+  version "1.8.1"
+  resolved "https://github.com/MrSltun/countries.git#79ff3a28c9ed0d6d3ad7c04ba6cf9e125aa1d4c0"
 
 wrap-ansi@^2.0.0:
   version "2.1.0"
