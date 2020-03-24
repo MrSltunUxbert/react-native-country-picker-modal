@@ -39,3 +39,6 @@ examples/ios/swiper.xcodeproj/xcuserdata
 # VSCode
 .vscode
 jsconfig.json
+.expo/
+lib/
+web-build/
