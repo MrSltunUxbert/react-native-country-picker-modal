@@ -7882,8 +7882,8 @@ wordwrap@~0.0.2:
   integrity sha1-o9XabNXAvAAI03I0u68b7WMFkQc=
 
 "world-countries@https://github.com/MrSltun/countries.git#arabicTranslation":
-  version "1.8.1"
-  resolved "https://github.com/MrSltun/countries.git#79ff3a28c9ed0d6d3ad7c04ba6cf9e125aa1d4c0"
+  version "4.0.0"
+  resolved "https://github.com/MrSltun/countries.git#b74b982db1cd1927c2c5372f8783ca03efe280cb"
 
 wrap-ansi@^2.0.0:
   version "2.1.0"
