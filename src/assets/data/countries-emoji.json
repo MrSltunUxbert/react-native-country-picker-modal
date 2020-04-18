@@ -7,6 +7,7 @@
     "flag": "flag-af",
     "name": {
       "common": "Afghanistan",
+      "ara": "أفغانستان",
       "ces": "Afghánistán",
       "cym": "Affganistan",
       "deu": "Afghanistan",
@@ -35,6 +36,7 @@
     "flag": "flag-al",
     "name": {
       "common": "Albania",
+      "ara": "ألبانيا",
       "ces": "Albánie",
       "cym": "Albania",
       "deu": "Albanien",
@@ -63,6 +65,7 @@
     "flag": "flag-dz",
     "name": {
       "common": "Algeria",
+      "ara": "الجزائر",
       "ces": "Alžírsko",
       "cym": "Algeria",
       "deu": "Algerien",
@@ -91,6 +94,7 @@
     "flag": "flag-as",
     "name": {
       "common": "American Samoa",
+      "ara": "ساموا الأمريكية",
       "ces": "Americká Samoa",
       "deu": "Amerikanisch-Samoa",
       "fra": "Samoa américaines",
@@ -118,6 +122,7 @@
     "flag": "flag-ad",
     "name": {
       "common": "Andorra",
+      "ara": "أندورا",
       "ces": "Andorra",
       "cym": "Andorra",
       "deu": "Andorra",
@@ -146,6 +151,7 @@
     "flag": "flag-ao",
     "name": {
       "common": "Angola",
+      "ara": "جمهورية أنغولا",
       "ces": "Angola",
       "cym": "Angola",
       "deu": "Angola",
@@ -174,6 +180,7 @@
     "flag": "flag-ai",
     "name": {
       "common": "Anguilla",
+      "ara": "أنغويلا",
       "ces": "Anguilla",
       "deu": "Anguilla",
       "fra": "Anguilla",
@@ -201,6 +208,7 @@
     "flag": "flag-aq",
     "name": {
       "common": "Antarctica",
+      "ara": "أنتارتيكا",
       "ces": "Antarktida",
       "cym": "Yr Antarctig",
       "deu": "Antarktis",
@@ -229,6 +237,7 @@
     "flag": "flag-ag",
     "name": {
       "common": "Antigua and Barbuda",
+      "ara": "أنتيغوا وباربودا",
       "ces": "Antigua a Barbuda",
       "cym": "Antigwa a Barbiwda",
       "deu": "Antigua und Barbuda",
@@ -257,6 +266,7 @@
     "flag": "flag-ar",
     "name": {
       "common": "Argentina",
+      "ara": "الأرجنتين",
       "ces": "Argentina",
       "cym": "Ariannin",
       "deu": "Argentinien",
@@ -285,6 +295,7 @@
     "flag": "flag-am",
     "name": {
       "common": "Armenia",
+      "ara": "أرمينيا",
       "ces": "Arménie",
       "cym": "Armenia",
       "deu": "Armenien",
@@ -313,6 +324,7 @@
     "flag": "flag-aw",
     "name": {
       "common": "Aruba",
+      "ara": "أروبا",
       "ces": "Aruba",
       "deu": "Aruba",
       "fra": "Aruba",
@@ -340,6 +352,7 @@
     "flag": "flag-au",
     "name": {
       "common": "Australia",
+      "ara": "أستراليا",
       "ces": "Austrálie",
       "cym": "Awstralia",
       "deu": "Australien",
@@ -368,6 +381,7 @@
     "flag": "flag-at",
     "name": {
       "common": "Austria",
+      "ara": "النمسا",
       "ces": "Rakousko",
       "cym": "Awstria",
       "deu": "Österreich",
@@ -396,6 +410,7 @@
     "flag": "flag-az",
     "name": {
       "common": "Azerbaijan",
+      "ara": "أذربيجان",
       "ces": "Ázerbájdžán",
       "cym": "Aserbaijan",
       "deu": "Aserbaidschan",
@@ -424,6 +439,7 @@
     "flag": "flag-bs",
     "name": {
       "common": "Bahamas",
+      "ara": "باهاماس",
       "ces": "Bahamy",
       "cym": "Bahamas",
       "deu": "Bahamas",
@@ -452,6 +468,7 @@
     "flag": "flag-bh",
     "name": {
       "common": "Bahrain",
+      "ara": "‏البحرين",
       "ces": "Bahrajn",
       "cym": "Bahrain",
       "deu": "Bahrain",
@@ -480,6 +497,7 @@
     "flag": "flag-bd",
     "name": {
       "common": "Bangladesh",
+      "ara": "بنغلاديش",
       "ces": "Bangladéš",
       "cym": "Bangladesh",
       "deu": "Bangladesch",
@@ -508,6 +526,7 @@
     "flag": "flag-bb",
     "name": {
       "common": "Barbados",
+      "ara": "باربادوس",
       "ces": "Barbados",
       "cym": "Barbados",
       "deu": "Barbados",
@@ -536,6 +555,7 @@
     "flag": "flag-by",
     "name": {
       "common": "Belarus",
+      "ara": "بيلاروسيا",
       "ces": "Bělorusko",
       "cym": "Belarws",
       "deu": "Weißrussland",
@@ -564,6 +584,7 @@
     "flag": "flag-be",
     "name": {
       "common": "Belgium",
+      "ara": "بلجيكا",
       "ces": "Belgie",
       "cym": "Gwlad Belg",
       "deu": "Belgien",
@@ -592,6 +613,7 @@
     "flag": "flag-bz",
     "name": {
       "common": "Belize",
+      "ara": "بليز",
       "ces": "Belize",
       "cym": "Belîs",
       "deu": "Belize",
@@ -620,6 +642,7 @@
     "flag": "flag-bj",
     "name": {
       "common": "Benin",
+      "ara": "بنين",
       "ces": "Benin",
       "cym": "Benin",
       "deu": "Benin",
@@ -648,6 +671,7 @@
     "flag": "flag-bm",
     "name": {
       "common": "Bermuda",
+      "ara": "برمودا",
       "ces": "Bermudy",
       "cym": "Bermiwda",
       "deu": "Bermuda",
@@ -676,6 +700,7 @@
     "flag": "flag-bt",
     "name": {
       "common": "Bhutan",
+      "ara": "بوتان",
       "ces": "Bhútán",
       "cym": "Bhwtan",
       "deu": "Bhutan",
@@ -704,6 +729,7 @@
     "flag": "flag-bo",
     "name": {
       "common": "Bolivia",
+      "ara": "بوليفيا",
       "ces": "Bolívie",
       "cym": "Bolifia",
       "deu": "Bolivien",
@@ -732,6 +758,7 @@
     "flag": "flag-ba",
     "name": {
       "common": "Bosnia and Herzegovina",
+      "ara": "البوسنة والهرسك",
       "ces": "Bosna a Hercegovina",
       "cym": "Bosnia a Hercegovina",
       "deu": "Bosnien und Herzegowina",
@@ -760,6 +787,7 @@
     "flag": "flag-bw",
     "name": {
       "common": "Botswana",
+      "ara": "بوتسوانا",
       "ces": "Botswana",
       "deu": "Botswana",
       "fra": "Botswana",
@@ -787,6 +815,7 @@
     "flag": "flag-bv",
     "name": {
       "common": "Bouvet Island",
+      "ara": "جزر بوفيه",
       "ces": "Bouvetův ostrov",
       "deu": "Bouvetinsel",
       "fra": "Île Bouvet",
@@ -814,6 +843,7 @@
     "flag": "flag-br",
     "name": {
       "common": "Brazil",
+      "ara": "البرازيل",
       "ces": "Brazílie",
       "cym": "Brasil",
       "deu": "Brasilien",
@@ -842,6 +872,7 @@
     "flag": "flag-io",
     "name": {
       "common": "British Indian Ocean Territory",
+      "ara": "إقليم المحيط الهندي البريطاني",
       "ces": "Britské indickooceánské území",
       "cym": "Tiriogaeth Brydeinig Cefnfor India",
       "deu": "Britisches Territorium im Indischen Ozean",
@@ -870,6 +901,7 @@
     "flag": "flag-vg",
     "name": {
       "common": "British Virgin Islands",
+      "ara": "جزر العذراء",
       "ces": "Britské Panenské ostrovy",
       "deu": "Britische Jungferninseln",
       "fra": "Îles Vierges britanniques",
@@ -897,6 +929,7 @@
     "flag": "flag-bn",
     "name": {
       "common": "Brunei",
+      "ara": "بروناي",
       "ces": "Brunej",
       "cym": "Brunei",
       "deu": "Brunei",
@@ -925,6 +958,7 @@
     "flag": "flag-bg",
     "name": {
       "common": "Bulgaria",
+      "ara": "بلغاريا",
       "ces": "Bulharsko",
       "cym": "Bwlgaria",
       "deu": "Bulgarien",
@@ -953,6 +987,7 @@
     "flag": "flag-bf",
     "name": {
       "common": "Burkina Faso",
+      "ara": "بوركينا فاسو",
       "ces": "Burkina Faso",
       "cym": "Bwrcina Ffaso",
       "deu": "Burkina Faso",
@@ -981,6 +1016,7 @@
     "flag": "flag-bi",
     "name": {
       "common": "Burundi",
+      "ara": "بوروندي",
       "ces": "Burundi",
       "cym": "Bwrwndi",
       "deu": "Burundi",
@@ -1009,6 +1045,7 @@
     "flag": "flag-kh",
     "name": {
       "common": "Cambodia",
+      "ara": "كمبوديا",
       "ces": "Kambodža",
       "cym": "Cambodia",
       "deu": "Kambodscha",
@@ -1037,6 +1074,7 @@
     "flag": "flag-cm",
     "name": {
       "common": "Cameroon",
+      "ara": "الكاميرون",
       "ces": "Kamerun",
       "cym": "Camerŵn",
       "deu": "Kamerun",
@@ -1065,6 +1103,7 @@
     "flag": "flag-ca",
     "name": {
       "common": "Canada",
+      "ara": "كندا",
       "ces": "Kanada",
       "cym": "Canada",
       "deu": "Kanada",
@@ -1093,6 +1132,7 @@
     "flag": "flag-cv",
     "name": {
       "common": "Cape Verde",
+      "ara": "كابو فيردا",
       "ces": "Kapverdy",
       "cym": "Penrhyn Verde",
       "deu": "Kap Verde",
@@ -1121,6 +1161,7 @@
     "flag": "flag-bq",
     "name": {
       "common": "Caribbean Netherlands",
+      "ara": "الجزر الكاريبية الهولندية",
       "ces": "Karibské Nizozemsko",
       "deu": "Karibische Niederlande",
       "fra": "Pays-Bas caribéens",
@@ -1148,6 +1189,7 @@
     "flag": "flag-ky",
     "name": {
       "common": "Cayman Islands",
+      "ara": "جزر كايمان",
       "ces": "Kajmanské ostrovy",
       "cym": "Ynysoedd Cayman",
       "deu": "Kaimaninseln",
@@ -1176,6 +1218,7 @@
     "flag": "flag-cf",
     "name": {
       "common": "Central African Republic",
+      "ara": "جمهورية شمال أفريقيا",
       "ces": "Středoafrická republika",
       "cym": "Gweriniaeth Canolbarth Affrica",
       "deu": "Zentralafrikanische Republik",
@@ -1204,6 +1247,7 @@
     "flag": "flag-td",
     "name": {
       "common": "Chad",
+      "ara": "تشاد",
       "ces": "Čad",
       "cym": "Tsiad",
       "deu": "Tschad",
@@ -1232,6 +1276,7 @@
     "flag": "flag-cl",
     "name": {
       "common": "Chile",
+      "ara": "تشيلي",
       "ces": "Chile",
       "cym": "Chile",
       "deu": "Chile",
@@ -1260,6 +1305,7 @@
     "flag": "flag-cn",
     "name": {
       "common": "China",
+      "ara": "الصين",
       "ces": "Čína",
       "cym": "Tsieina",
       "deu": "China",
@@ -1287,6 +1333,7 @@
     "flag": "flag-cx",
     "name": {
       "common": "Christmas Island",
+      "ara": "جزيرة كريسماس",
       "ces": "Vánoční ostrov",
       "cym": "Ynys y Nadolig",
       "deu": "Weihnachtsinsel",
@@ -1315,6 +1362,7 @@
     "flag": "flag-cc",
     "name": {
       "common": "Cocos (Keeling) Islands",
+      "ara": "جزر كوكوس",
       "ces": "Kokosové ostrovy",
       "cym": "Ynysoedd Cocos",
       "deu": "Kokosinseln",
@@ -1343,6 +1391,7 @@
     "flag": "flag-co",
     "name": {
       "common": "Colombia",
+      "ara": "كولومبيا",
       "ces": "Kolumbie",
       "cym": "Colombia",
       "deu": "Kolumbien",
@@ -1371,6 +1420,7 @@
     "flag": "flag-km",
     "name": {
       "common": "Comoros",
+      "ara": "جزر القمر",
       "ces": "Komory",
       "cym": "Y Comoros",
       "deu": "Komoren",
@@ -1399,6 +1449,7 @@
     "flag": "flag-ck",
     "name": {
       "common": "Cook Islands",
+      "ara": "جزر كوك",
       "ces": "Cookovy ostrovy",
       "cym": "Ynysoedd Cook",
       "deu": "Cookinseln",
@@ -1427,6 +1478,7 @@
     "flag": "flag-cr",
     "name": {
       "common": "Costa Rica",
+      "ara": "كوستاريكا",
       "ces": "Kostarika",
       "cym": "Costa Rica",
       "deu": "Costa Rica",
@@ -1455,6 +1507,7 @@
     "flag": "flag-hr",
     "name": {
       "common": "Croatia",
+      "ara": "كرواتيا",
       "ces": "Chorvatsko",
       "cym": "Croatia",
       "deu": "Kroatien",
@@ -1483,6 +1536,7 @@
     "flag": "flag-cu",
     "name": {
       "common": "Cuba",
+      "ara": "كوبا",
       "ces": "Kuba",
       "cym": "Ciwba",
       "deu": "Kuba",
@@ -1511,6 +1565,7 @@
     "flag": "flag-cw",
     "name": {
       "common": "Curaçao",
+      "ara": "كوراساو",
       "ces": "Curaçao",
       "deu": "Curaçao",
       "fra": "Curaçao",
@@ -1535,6 +1590,7 @@
     "flag": "flag-cy",
     "name": {
       "common": "Cyprus",
+      "ara": "قبرص",
       "ces": "Kypr",
       "cym": "Cyprus",
       "deu": "Zypern",
@@ -1563,6 +1619,7 @@
     "flag": "flag-cz",
     "name": {
       "common": "Czechia",
+      "ara": "التشيك",
       "ces": "Česko",
       "cym": "Y Weriniaeth Tsiec",
       "deu": "Tschechien",
@@ -1591,6 +1648,7 @@
     "flag": "flag-cd",
     "name": {
       "common": "DR Congo",
+      "ara": "جمهورية الكونغو الديمقراطية",
       "ces": "DR Kongo",
       "cym": "Gweriniaeth Ddemocrataidd Congo",
       "deu": "Kongo (Dem. Rep.)",
@@ -1619,6 +1677,7 @@
     "flag": "flag-dk",
     "name": {
       "common": "Denmark",
+      "ara": "الدنمارك",
       "ces": "Dánsko",
       "cym": "Denmarc",
       "deu": "Dänemark",
@@ -1647,6 +1706,7 @@
     "flag": "flag-dj",
     "name": {
       "common": "Djibouti",
+      "ara": "جيبوتي",
       "ces": "Džibutsko",
       "cym": "Jibwti",
       "deu": "Dschibuti",
@@ -1675,6 +1735,7 @@
     "flag": "flag-dm",
     "name": {
       "common": "Dominica",
+      "ara": "دومينيكا",
       "ces": "Dominika",
       "cym": "Dominica",
       "deu": "Dominica",
@@ -1703,6 +1764,7 @@
     "flag": "flag-do",
     "name": {
       "common": "Dominican Republic",
+      "ara": "جمهورية الدومينيكان",
       "ces": "Dominikánská republika",
       "cym": "Gweriniaeth Dominica",
       "deu": "Dominikanische Republik",
@@ -1731,6 +1793,7 @@
     "flag": "flag-ec",
     "name": {
       "common": "Ecuador",
+      "ara": "الإكوادور",
       "ces": "Ekvádor",
       "cym": "Ecwador",
       "deu": "Ecuador",
@@ -1759,6 +1822,7 @@
     "flag": "flag-eg",
     "name": {
       "common": "Egypt",
+      "ara": "مصر",
       "ces": "Egypt",
       "cym": "Yr Aifft",
       "deu": "Ägypten",
@@ -1787,6 +1851,7 @@
     "flag": "flag-sv",
     "name": {
       "common": "El Salvador",
+      "ara": "السلفادور",
       "ces": "Salvador",
       "cym": "El Salfador",
       "deu": "El Salvador",
@@ -1815,6 +1880,7 @@
     "flag": "flag-gq",
     "name": {
       "common": "Equatorial Guinea",
+      "ara": "غينيا الاستوائية",
       "ces": "Rovníková Guinea",
       "cym": "Gini Gyhydeddol",
       "deu": "Äquatorialguinea",
@@ -1843,6 +1909,7 @@
     "flag": "flag-er",
     "name": {
       "common": "Eritrea",
+      "ara": "إريتريا",
       "ces": "Eritrea",
       "cym": "Eritrea",
       "deu": "Eritrea",
@@ -1871,6 +1938,7 @@
     "flag": "flag-ee",
     "name": {
       "common": "Estonia",
+      "ara": "إستونيا",
       "ces": "Estonsko",
       "cym": "Estonia",
       "deu": "Estland",
@@ -1899,6 +1967,7 @@
     "flag": "flag-sz",
     "name": {
       "common": "Eswatini",
+      "ara": "سوازيلاند",
       "ces": "Svazijsko",
       "deu": "Swasiland",
       "fra": "Swaziland",
@@ -1926,6 +1995,7 @@
     "flag": "flag-et",
     "name": {
       "common": "Ethiopia",
+      "ara": "إثيوبيا",
       "ces": "Etiopie",
       "cym": "Ethiopia",
       "deu": "Äthiopien",
@@ -1954,6 +2024,7 @@
     "flag": "flag-fk",
     "name": {
       "common": "Falkland Islands",
+      "ara": "جزر فوكلاند",
       "ces": "Falklandy",
       "deu": "Falklandinseln",
       "fra": "Îles Malouines",
@@ -1981,6 +2052,7 @@
     "flag": "flag-fo",
     "name": {
       "common": "Faroe Islands",
+      "ara": "جزر فارو",
       "ces": "Faerské ostrovy",
       "deu": "Färöer-Inseln",
       "fra": "Îles Féroé",
@@ -2008,6 +2080,7 @@
     "flag": "flag-fj",
     "name": {
       "common": "Fiji",
+      "ara": "فيجي",
       "ces": "Fidži",
       "deu": "Fidschi",
       "fra": "Fidji",
@@ -2035,6 +2108,7 @@
     "flag": "flag-fi",
     "name": {
       "common": "Finland",
+      "ara": "فنلندا",
       "ces": "Finsko",
       "deu": "Finnland",
       "fra": "Finlande",
@@ -2062,6 +2136,7 @@
     "flag": "flag-fr",
     "name": {
       "common": "France",
+      "ara": "فرنسا",
       "ces": "Francie",
       "deu": "Frankreich",
       "fra": "France",
@@ -2089,6 +2164,7 @@
     "flag": "flag-gf",
     "name": {
       "common": "French Guiana",
+      "ara": "غويانا",
       "ces": "Francouzská Guyana",
       "deu": "Französisch-Guayana",
       "fra": "Guyane",
@@ -2116,6 +2192,7 @@
     "flag": "flag-pf",
     "name": {
       "common": "French Polynesia",
+      "ara": "بولينزيا الفرنسية",
       "ces": "Francouzská Polynésie",
       "deu": "Französisch-Polynesien",
       "fra": "Polynésie française",
@@ -2143,6 +2220,7 @@
     "flag": "flag-tf",
     "name": {
       "common": "French Southern and Antarctic Lands",
+      "ara": "أراض فرنسية جنوبية وأنتارتيكية",
       "ces": "Francouzská jižní a antarktická území",
       "deu": "Französische Süd- und Antarktisgebiete",
       "fra": "Terres australes et antarctiques françaises",
@@ -2170,6 +2248,7 @@
     "flag": "flag-ga",
     "name": {
       "common": "Gabon",
+      "ara": "الغابون",
       "ces": "Gabon",
       "deu": "Gabun",
       "fra": "Gabon",
@@ -2197,6 +2276,7 @@
     "flag": "flag-gm",
     "name": {
       "common": "Gambia",
+      "ara": "غامبيا",
       "ces": "Gambie",
       "deu": "Gambia",
       "fra": "Gambie",
@@ -2224,6 +2304,7 @@
     "flag": "flag-ge",
     "name": {
       "common": "Georgia",
+      "ara": "جورجيا",
       "ces": "Gruzie",
       "deu": "Georgien",
       "fra": "Géorgie",
@@ -2251,6 +2332,7 @@
     "flag": "flag-de",
     "name": {
       "common": "Germany",
+      "ara": "ألمانيا",
       "ces": "Německo",
       "deu": "Deutschland",
       "fra": "Allemagne",
@@ -2278,6 +2360,7 @@
     "flag": "flag-gh",
     "name": {
       "common": "Ghana",
+      "ara": "غانا",
       "ces": "Ghana",
       "deu": "Ghana",
       "fra": "Ghana",
@@ -2305,6 +2388,7 @@
     "flag": "flag-gi",
     "name": {
       "common": "Gibraltar",
+      "ara": "جبل طارق",
       "ces": "Gibraltar",
       "deu": "Gibraltar",
       "fra": "Gibraltar",
@@ -2332,6 +2416,7 @@
     "flag": "flag-gr",
     "name": {
       "common": "Greece",
+      "ara": "اليونان",
       "ces": "Řecko",
       "deu": "Griechenland",
       "fra": "Grèce",
@@ -2359,6 +2444,7 @@
     "flag": "flag-gl",
     "name": {
       "common": "Greenland",
+      "ara": "جرينلاند",
       "ces": "Grónsko",
       "deu": "Grönland",
       "fra": "Groenland",
@@ -2386,6 +2472,7 @@
     "flag": "flag-gd",
     "name": {
       "common": "Grenada",
+      "ara": "غرينادا",
       "ces": "Grenada",
       "deu": "Grenada",
       "fra": "Grenade",
@@ -2413,6 +2500,7 @@
     "flag": "flag-gp",
     "name": {
       "common": "Guadeloupe",
+      "ara": "غوادلوب",
       "ces": "Guadeloupe",
       "deu": "Guadeloupe",
       "fra": "Guadeloupe",
@@ -2440,6 +2528,7 @@
     "flag": "flag-gu",
     "name": {
       "common": "Guam",
+      "ara": "غوام",
       "ces": "Guam",
       "deu": "Guam",
       "fra": "Guam",
@@ -2467,6 +2556,7 @@
     "flag": "flag-gt",
     "name": {
       "common": "Guatemala",
+      "ara": "غواتيمالا",
       "ces": "Guatemala",
       "deu": "Guatemala",
       "fra": "Guatemala",
@@ -2494,6 +2584,7 @@
     "flag": "flag-gg",
     "name": {
       "common": "Guernsey",
+      "ara": "غيرنزي",
       "ces": "Guernsey",
       "deu": "Guernsey",
       "fra": "Guernesey",
@@ -2521,6 +2612,7 @@
     "flag": "flag-gn",
     "name": {
       "common": "Guinea",
+      "ara": "غينيا",
       "ces": "Guinea",
       "deu": "Guinea",
       "fra": "Guinée",
@@ -2548,6 +2640,7 @@
     "flag": "flag-gw",
     "name": {
       "common": "Guinea-Bissau",
+      "ara": "غينيا بيساو",
       "ces": "Guinea-Bissau",
       "deu": "Guinea-Bissau",
       "fra": "Guinée-Bissau",
@@ -2575,6 +2668,7 @@
     "flag": "flag-gy",
     "name": {
       "common": "Guyana",
+      "ara": "غيانا",
       "ces": "Guyana",
       "deu": "Guyana",
       "fra": "Guyana",
@@ -2602,6 +2696,7 @@
     "flag": "flag-ht",
     "name": {
       "common": "Haiti",
+      "ara": "هايتي",
       "ces": "Haiti",
       "deu": "Haiti",
       "fra": "Haïti",
@@ -2629,6 +2724,7 @@
     "flag": "flag-hm",
     "name": {
       "common": "Heard Island and McDonald Islands",
+      "ara": "جزيرة عيرد وجزر ماكدونالد",
       "ces": "Heardův ostrov a McDonaldovy ostrovy",
       "deu": "Heard und die McDonaldinseln",
       "fra": "Îles Heard-et-MacDonald",
@@ -2656,6 +2752,7 @@
     "flag": "flag-hn",
     "name": {
       "common": "Honduras",
+      "ara": "هندوراس",
       "ces": "Honduras",
       "deu": "Honduras",
       "fra": "Honduras",
@@ -2683,6 +2780,7 @@
     "flag": "flag-hk",
     "name": {
       "common": "Hong Kong",
+      "ara": "هونغ كونغ",
       "ces": "Hongkong",
       "deu": "Hongkong",
       "fra": "Hong Kong",
@@ -2709,6 +2807,7 @@
     "flag": "flag-hu",
     "name": {
       "common": "Hungary",
+      "ara": "المجر",
       "ces": "Maďarsko",
       "deu": "Ungarn",
       "fra": "Hongrie",
@@ -2736,6 +2835,7 @@
     "flag": "flag-is",
     "name": {
       "common": "Iceland",
+      "ara": "آيسلندا",
       "ces": "Island",
       "deu": "Island",
       "fra": "Islande",
@@ -2763,6 +2863,7 @@
     "flag": "flag-in",
     "name": {
       "common": "India",
+      "ara": "الهند",
       "ces": "Indie",
       "deu": "Indien",
       "fra": "Inde",
@@ -2790,6 +2891,7 @@
     "flag": "flag-id",
     "name": {
       "common": "Indonesia",
+      "ara": "إندونيسيا",
       "ces": "Indonésie",
       "deu": "Indonesien",
       "fra": "Indonésie",
@@ -2817,6 +2919,7 @@
     "flag": "flag-ir",
     "name": {
       "common": "Iran",
+      "ara": "إيران",
       "ces": "Írán",
       "deu": "Iran",
       "fra": "Iran",
@@ -2844,6 +2947,7 @@
     "flag": "flag-iq",
     "name": {
       "common": "Iraq",
+      "ara": "العراق",
       "ces": "Irák",
       "deu": "Irak",
       "fra": "Irak",
@@ -2871,6 +2975,7 @@
     "flag": "flag-ie",
     "name": {
       "common": "Ireland",
+      "ara": "أيرلندا",
       "ces": "Irsko",
       "deu": "Irland",
       "fra": "Irlande",
@@ -2898,6 +3003,7 @@
     "flag": "flag-im",
     "name": {
       "common": "Isle of Man",
+      "ara": "جزيرة مان",
       "ces": "Ostrov Man",
       "deu": "Insel Man",
       "fra": "Île de Man",
@@ -2925,6 +3031,7 @@
     "flag": "flag-il",
     "name": {
       "common": "Israel",
+      "ara": "إسرائيل",
       "ces": "Izrael",
       "deu": "Israel",
       "fra": "Israël",
@@ -2952,6 +3059,7 @@
     "flag": "flag-it",
     "name": {
       "common": "Italy",
+      "ara": "إيطاليا",
       "ces": "Itálie",
       "deu": "Italien",
       "fra": "Italie",
@@ -2979,6 +3087,7 @@
     "flag": "flag-ci",
     "name": {
       "common": "Ivory Coast",
+      "ara": "ساحل العاج",
       "ces": "Pobřeží slonoviny",
       "deu": "Elfenbeinküste",
       "fra": "Côte d'Ivoire",
@@ -3006,6 +3115,7 @@
     "flag": "flag-jm",
     "name": {
       "common": "Jamaica",
+      "ara": "جامايكا",
       "ces": "Jamajka",
       "deu": "Jamaika",
       "fra": "Jamaïque",
@@ -3033,6 +3143,7 @@
     "flag": "flag-jp",
     "name": {
       "common": "Japan",
+      "ara": "اليابان",
       "ces": "Japonsko",
       "deu": "Japan",
       "fra": "Japon",
@@ -3060,6 +3171,7 @@
     "flag": "flag-je",
     "name": {
       "common": "Jersey",
+      "ara": "جيرزي",
       "ces": "Jersey",
       "deu": "Jersey",
       "fra": "Jersey",
@@ -3087,6 +3199,7 @@
     "flag": "flag-jo",
     "name": {
       "common": "Jordan",
+      "ara": "الأردن",
       "ces": "Jordánsko",
       "deu": "Jordanien",
       "fra": "Jordanie",
@@ -3114,6 +3227,7 @@
     "flag": "flag-kz",
     "name": {
       "common": "Kazakhstan",
+      "ara": "كازاخستان",
       "ces": "Kazachstán",
       "deu": "Kasachstan",
       "fra": "Kazakhstan",
@@ -3141,6 +3255,7 @@
     "flag": "flag-ke",
     "name": {
       "common": "Kenya",
+      "ara": "كينيا",
       "ces": "Keňa",
       "deu": "Kenia",
       "fra": "Kenya",
@@ -3168,6 +3283,7 @@
     "flag": "flag-ki",
     "name": {
       "common": "Kiribati",
+      "ara": "كيريباتي",
       "ces": "Kiribati",
       "deu": "Kiribati",
       "fra": "Kiribati",
@@ -3195,6 +3311,7 @@
     "flag": "flag-xk",
     "name": {
       "common": "Kosovo",
+      "ara": "كوسوفو",
       "ces": "Kosovo",
       "deu": "Kosovo",
       "fra": "Kosovo",
@@ -3221,6 +3338,7 @@
     "flag": "flag-kw",
     "name": {
       "common": "Kuwait",
+      "ara": "الكويت",
       "ces": "Kuvajt",
       "deu": "Kuwait",
       "fra": "Koweït",
@@ -3248,6 +3366,7 @@
     "flag": "flag-kg",
     "name": {
       "common": "Kyrgyzstan",
+      "ara": "قيرغيزستان",
       "ces": "Kyrgyzstán",
       "deu": "Kirgisistan",
       "fra": "Kirghizistan",
@@ -3275,6 +3394,7 @@
     "flag": "flag-la",
     "name": {
       "common": "Laos",
+      "ara": "لاوس",
       "ces": "Laos",
       "deu": "Laos",
       "fra": "Laos",
@@ -3302,6 +3422,7 @@
     "flag": "flag-lv",
     "name": {
       "common": "Latvia",
+      "ara": "لاتفيا",
       "ces": "Lotyšsko",
       "deu": "Lettland",
       "fra": "Lettonie",
@@ -3329,6 +3450,7 @@
     "flag": "flag-lb",
     "name": {
       "common": "Lebanon",
+      "ara": "لبنان",
       "ces": "Libanon",
       "deu": "Libanon",
       "fra": "Liban",
@@ -3356,6 +3478,7 @@
     "flag": "flag-ls",
     "name": {
       "common": "Lesotho",
+      "ara": "ليسوتو",
       "ces": "Lesotho",
       "deu": "Lesotho",
       "fra": "Lesotho",
@@ -3383,6 +3506,7 @@
     "flag": "flag-lr",
     "name": {
       "common": "Liberia",
+      "ara": "ليبيريا",
       "ces": "Libérie",
       "deu": "Liberia",
       "fra": "Liberia",
@@ -3410,6 +3534,7 @@
     "flag": "flag-ly",
     "name": {
       "common": "Libya",
+      "ara": "‏ليبيا",
       "ces": "Libye",
       "deu": "Libyen",
       "fra": "Libye",
@@ -3437,6 +3562,7 @@
     "flag": "flag-li",
     "name": {
       "common": "Liechtenstein",
+      "ara": "ليختنشتاين",
       "ces": "Lichtenštejnsko",
       "deu": "Liechtenstein",
       "fra": "Liechtenstein",
@@ -3464,6 +3590,7 @@
     "flag": "flag-lt",
     "name": {
       "common": "Lithuania",
+      "ara": "ليتوانيا",
       "ces": "Litva",
       "deu": "Litauen",
       "fra": "Lituanie",
@@ -3491,6 +3618,7 @@
     "flag": "flag-lu",
     "name": {
       "common": "Luxembourg",
+      "ara": "لوكسمبرغ",
       "ces": "Lucembursko",
       "deu": "Luxemburg",
       "fra": "Luxembourg",
@@ -3518,6 +3646,7 @@
     "flag": "flag-mo",
     "name": {
       "common": "Macau",
+      "ara": "ماكاو",
       "ces": "Macao",
       "deu": "Macao",
       "fra": "Macao",
@@ -3544,6 +3673,7 @@
     "flag": "flag-mk",
     "name": {
       "common": "Macedonia",
+      "ara": "مقدونيا",
       "ces": "Makedonie",
       "deu": "Mazedonien",
       "fra": "Macédoine",
@@ -3571,6 +3701,7 @@
     "flag": "flag-mg",
     "name": {
       "common": "Madagascar",
+      "ara": "مدغشقر",
       "ces": "Madagaskar",
       "deu": "Madagaskar",
       "fra": "Madagascar",
@@ -3598,6 +3729,7 @@
     "flag": "flag-mw",
     "name": {
       "common": "Malawi",
+      "ara": "مالاوي",
       "ces": "Malawi",
       "deu": "Malawi",
       "fra": "Malawi",
@@ -3625,6 +3757,7 @@
     "flag": "flag-my",
     "name": {
       "common": "Malaysia",
+      "ara": "ماليزيا",
       "ces": "Malajsie",
       "deu": "Malaysia",
       "fra": "Malaisie",
@@ -3652,6 +3785,7 @@
     "flag": "flag-mv",
     "name": {
       "common": "Maldives",
+      "ara": "المالديف",
       "ces": "Maledivy",
       "deu": "Malediven",
       "fra": "Maldives",
@@ -3679,6 +3813,7 @@
     "flag": "flag-ml",
     "name": {
       "common": "Mali",
+      "ara": "مالي",
       "ces": "Mali",
       "deu": "Mali",
       "fra": "Mali",
@@ -3706,6 +3841,7 @@
     "flag": "flag-mt",
     "name": {
       "common": "Malta",
+      "ara": "مالطا",
       "ces": "Malta",
       "deu": "Malta",
       "fra": "Malte",
@@ -3733,6 +3869,7 @@
     "flag": "flag-mh",
     "name": {
       "common": "Marshall Islands",
+      "ara": "جزر مارشال",
       "ces": "Marshallovy ostrovy",
       "deu": "Marshallinseln",
       "fra": "Îles Marshall",
@@ -3760,6 +3897,7 @@
     "flag": "flag-mq",
     "name": {
       "common": "Martinique",
+      "ara": "مارتينيك",
       "ces": "Martinik",
       "deu": "Martinique",
       "fra": "Martinique",
@@ -3787,6 +3925,7 @@
     "flag": "flag-mr",
     "name": {
       "common": "Mauritania",
+      "ara": "موريتانيا",
       "ces": "Mauritánie",
       "deu": "Mauretanien",
       "fra": "Mauritanie",
@@ -3814,6 +3953,7 @@
     "flag": "flag-mu",
     "name": {
       "common": "Mauritius",
+      "ara": "موريشيوس",
       "ces": "Mauricius",
       "deu": "Mauritius",
       "fra": "Île Maurice",
@@ -3841,6 +3981,7 @@
     "flag": "flag-yt",
     "name": {
       "common": "Mayotte",
+      "ara": "مايوت",
       "ces": "Mayotte",
       "deu": "Mayotte",
       "fra": "Mayotte",
@@ -3868,6 +4009,7 @@
     "flag": "flag-mx",
     "name": {
       "common": "Mexico",
+      "ara": "المسكيك",
       "ces": "Mexiko",
       "deu": "Mexiko",
       "fra": "Mexique",
@@ -3895,6 +4037,7 @@
     "flag": "flag-fm",
     "name": {
       "common": "Micronesia",
+      "ara": "ميكرونيسيا",
       "ces": "Mikronésie",
       "deu": "Mikronesien",
       "fra": "Micronésie",
@@ -3922,6 +4065,7 @@
     "flag": "flag-md",
     "name": {
       "common": "Moldova",
+      "ara": "مولدافيا",
       "ces": "Moldavsko",
       "deu": "Moldawien",
       "fra": "Moldavie",
@@ -3949,6 +4093,7 @@
     "flag": "flag-mc",
     "name": {
       "common": "Monaco",
+      "ara": "موناكو",
       "ces": "Monako",
       "deu": "Monaco",
       "fra": "Monaco",
@@ -3976,6 +4121,7 @@
     "flag": "flag-mn",
     "name": {
       "common": "Mongolia",
+      "ara": "منغوليا",
       "ces": "Mongolsko",
       "deu": "Mongolei",
       "fra": "Mongolie",
@@ -4003,6 +4149,7 @@
     "flag": "flag-me",
     "name": {
       "common": "Montenegro",
+      "ara": "الجبل الاسود",
       "ces": "Černá Hora",
       "deu": "Montenegro",
       "fra": "Monténégro",
@@ -4030,6 +4177,7 @@
     "flag": "flag-ms",
     "name": {
       "common": "Montserrat",
+      "ara": "مونتسرات",
       "ces": "Montserrat",
       "deu": "Montserrat",
       "fra": "Montserrat",
@@ -4057,6 +4205,7 @@
     "flag": "flag-ma",
     "name": {
       "common": "Morocco",
+      "ara": "المغرب",
       "ces": "Maroko",
       "deu": "Marokko",
       "fra": "Maroc",
@@ -4084,6 +4233,7 @@
     "flag": "flag-mz",
     "name": {
       "common": "Mozambique",
+      "ara": "موزمبيق",
       "ces": "Mosambik",
       "deu": "Mosambik",
       "fra": "Mozambique",
@@ -4111,6 +4261,7 @@
     "flag": "flag-mm",
     "name": {
       "common": "Myanmar",
+      "ara": "ميانمار",
       "ces": "Myanmar",
       "deu": "Myanmar",
       "fra": "Birmanie",
@@ -4138,6 +4289,7 @@
     "flag": "flag-na",
     "name": {
       "common": "Namibia",
+      "ara": "نامبيا",
       "ces": "Namibie",
       "deu": "Namibia",
       "fra": "Namibie",
@@ -4165,6 +4317,7 @@
     "flag": "flag-nr",
     "name": {
       "common": "Nauru",
+      "ara": "ناورو",
       "ces": "Nauru",
       "deu": "Nauru",
       "fra": "Nauru",
@@ -4192,6 +4345,7 @@
     "flag": "flag-np",
     "name": {
       "common": "Nepal",
+      "ara": "نيبال",
       "ces": "Nepál",
       "deu": "Nepal",
       "fra": "Népal",
@@ -4219,6 +4373,7 @@
     "flag": "flag-nl",
     "name": {
       "common": "Netherlands",
+      "ara": "هولندا",
       "ces": "Nizozemsko",
       "deu": "Niederlande",
       "fra": "Pays-Bas",
@@ -4246,6 +4401,7 @@
     "flag": "flag-nc",
     "name": {
       "common": "New Caledonia",
+      "ara": "كاليدونيا الجديدة",
       "ces": "Nová Kaledonie",
       "deu": "Neukaledonien",
       "fra": "Nouvelle-Calédonie",
@@ -4273,6 +4429,7 @@
     "flag": "flag-nz",
     "name": {
       "common": "New Zealand",
+      "ara": "نيوزيلندا",
       "ces": "Nový Zéland",
       "deu": "Neuseeland",
       "fra": "Nouvelle-Zélande",
@@ -4300,6 +4457,7 @@
     "flag": "flag-ni",
     "name": {
       "common": "Nicaragua",
+      "ara": "نيكاراغوا",
       "ces": "Nikaragua",
       "deu": "Nicaragua",
       "fra": "Nicaragua",
@@ -4327,6 +4485,7 @@
     "flag": "flag-ne",
     "name": {
       "common": "Niger",
+      "ara": "النيجر",
       "ces": "Niger",
       "deu": "Niger",
       "fra": "Niger",
@@ -4354,6 +4513,7 @@
     "flag": "flag-ng",
     "name": {
       "common": "Nigeria",
+      "ara": "نيجيريا",
       "ces": "Nigérie",
       "deu": "Nigeria",
       "fra": "Nigéria",
@@ -4381,6 +4541,7 @@
     "flag": "flag-nu",
     "name": {
       "common": "Niue",
+      "ara": "تييوي",
       "ces": "Niue",
       "deu": "Niue",
       "fra": "Niue",
@@ -4408,6 +4569,7 @@
     "flag": "flag-nf",
     "name": {
       "common": "Norfolk Island",
+      "ara": "جزيرة نورفولك",
       "ces": "Norfolk",
       "deu": "Norfolkinsel",
       "fra": "Île Norfolk",
@@ -4435,6 +4597,7 @@
     "flag": "flag-kp",
     "name": {
       "common": "North Korea",
+      "ara": "كوريا الشمالية",
       "ces": "Severní Korea",
       "deu": "Nordkorea",
       "fra": "Corée du Nord",
@@ -4462,6 +4625,7 @@
     "flag": "flag-mp",
     "name": {
       "common": "Northern Mariana Islands",
+      "ara": "جزر ماريانا الشمالية",
       "ces": "Severní Mariany",
       "deu": "Nördliche Marianen",
       "fra": "Îles Mariannes du Nord",
@@ -4489,6 +4653,7 @@
     "flag": "flag-no",
     "name": {
       "common": "Norway",
+      "ara": "النرويج",
       "ces": "Norsko",
       "deu": "Norwegen",
       "fra": "Norvège",
@@ -4516,6 +4681,7 @@
     "flag": "flag-om",
     "name": {
       "common": "Oman",
+      "ara": "عمان",
       "ces": "Omán",
       "deu": "Oman",
       "fra": "Oman",
@@ -4543,6 +4709,7 @@
     "flag": "flag-pk",
     "name": {
       "common": "Pakistan",
+      "ara": "باكستان",
       "ces": "Pákistán",
       "deu": "Pakistan",
       "fra": "Pakistan",
@@ -4570,6 +4737,7 @@
     "flag": "flag-pw",
     "name": {
       "common": "Palau",
+      "ara": "بالاو",
       "ces": "Palau",
       "deu": "Palau",
       "fra": "Palaos (Palau)",
@@ -4597,6 +4765,7 @@
     "flag": "flag-ps",
     "name": {
       "common": "Palestine",
+      "ara": "فلسطين",
       "ces": "Palestina",
       "deu": "Palästina",
       "fra": "Palestine",
@@ -4624,6 +4793,7 @@
     "flag": "flag-pa",
     "name": {
       "common": "Panama",
+      "ara": "بنما",
       "ces": "Panama",
       "deu": "Panama",
       "fra": "Panama",
@@ -4651,6 +4821,7 @@
     "flag": "flag-pg",
     "name": {
       "common": "Papua New Guinea",
+      "ara": "بابوا غينيا الجديدة",
       "ces": "Papua-Nová Guinea",
       "deu": "Papua-Neuguinea",
       "fra": "Papouasie-Nouvelle-Guinée",
@@ -4678,6 +4849,7 @@
     "flag": "flag-py",
     "name": {
       "common": "Paraguay",
+      "ara": "باراغواي",
       "ces": "Paraguay",
       "deu": "Paraguay",
       "fra": "Paraguay",
@@ -4705,6 +4877,7 @@
     "flag": "flag-pe",
     "name": {
       "common": "Peru",
+      "ara": "بيرو",
       "ces": "Peru",
       "deu": "Peru",
       "fra": "Pérou",
@@ -4732,6 +4905,7 @@
     "flag": "flag-ph",
     "name": {
       "common": "Philippines",
+      "ara": "الفلبين",
       "ces": "Filipíny",
       "deu": "Philippinen",
       "fra": "Philippines",
@@ -4759,6 +4933,7 @@
     "flag": "flag-pn",
     "name": {
       "common": "Pitcairn Islands",
+      "ara": "جزر بيتكيرن",
       "ces": "Pitcairnovy ostrovy",
       "deu": "Pitcairninseln",
       "fra": "Îles Pitcairn",
@@ -4786,6 +4961,7 @@
     "flag": "flag-pl",
     "name": {
       "common": "Poland",
+      "ara": "بولندا",
       "ces": "Polsko",
       "deu": "Polen",
       "fra": "Pologne",
@@ -4813,6 +4989,7 @@
     "flag": "flag-pt",
     "name": {
       "common": "Portugal",
+      "ara": "البرتغال",
       "ces": "Portugalsko",
       "deu": "Portugal",
       "fra": "Portugal",
@@ -4840,6 +5017,7 @@
     "flag": "flag-pr",
     "name": {
       "common": "Puerto Rico",
+      "ara": "بويرتوريكو",
       "ces": "Portoriko",
       "deu": "Puerto Rico",
       "fra": "Porto Rico",
@@ -4867,6 +5045,7 @@
     "flag": "flag-qa",
     "name": {
       "common": "Qatar",
+      "ara": "قطر",
       "ces": "Katar",
       "deu": "Katar",
       "fra": "Qatar",
@@ -4894,6 +5073,7 @@
     "flag": "flag-cg",
     "name": {
       "common": "Republic of the Congo",
+      "ara": "جمهورية الكونفو",
       "ces": "Kongo",
       "cym": "Gweriniaeth y Congo",
       "deu": "Kongo",
@@ -4922,6 +5102,7 @@
     "flag": "flag-ro",
     "name": {
       "common": "Romania",
+      "ara": "رومانيا",
       "ces": "Rumunsko",
       "deu": "Rumänien",
       "fra": "Roumanie",
@@ -4949,6 +5130,7 @@
     "flag": "flag-ru",
     "name": {
       "common": "Russia",
+      "ara": "روسيا",
       "ces": "Rusko",
       "deu": "Russland",
       "fra": "Russie",
@@ -4976,6 +5158,7 @@
     "flag": "flag-rw",
     "name": {
       "common": "Rwanda",
+      "ara": "رواندا",
       "ces": "Rwanda",
       "deu": "Ruanda",
       "fra": "Rwanda",
@@ -5003,6 +5186,7 @@
     "flag": "flag-re",
     "name": {
       "common": "Réunion",
+      "ara": "لا ريونيون",
       "ces": "Réunion",
       "deu": "Réunion",
       "fra": "Réunion",
@@ -5030,6 +5214,7 @@
     "flag": "flag-bl",
     "name": {
       "common": "Saint Barthélemy",
+      "ara": "سان بارتليمي",
       "ces": "Svatý Bartoloměj",
       "deu": "Saint-Barthélemy",
       "fra": "Saint-Barthélemy",
@@ -5057,6 +5242,7 @@
     "flag": "flag-sh",
     "name": {
       "common": "Saint Helena, Ascension and Tristan da Cunha",
+      "ara": "سانت هيلينا وأسينشين وتريستان دا كونا",
       "ces": "Svatá Helena, Ascension a Tristan da Cunha",
       "deu": "St. Helena, Ascension und Tristan da Cunha",
       "fra": "Sainte-Hélène, Ascension et Tristan da Cunha",
@@ -5084,6 +5270,7 @@
     "flag": "flag-kn",
     "name": {
       "common": "Saint Kitts and Nevis",
+      "ara": "سانت كيتس ونيفيس",
       "ces": "Svatý Kryštof a Nevis",
       "deu": "St. Kitts und Nevis",
       "fra": "Saint-Christophe-et-Niévès",
@@ -5111,6 +5298,7 @@
     "flag": "flag-lc",
     "name": {
       "common": "Saint Lucia",
+      "ara": "سانت لوسيا",
       "ces": "Svatá Lucie",
       "deu": "St. Lucia",
       "fra": "Sainte-Lucie",
@@ -5138,6 +5326,7 @@
     "flag": "flag-mf",
     "name": {
       "common": "Saint Martin",
+      "ara": "سانت مارتن",
       "ces": "Svatý Martin (Francie)",
       "deu": "Saint-Martin",
       "fra": "Saint-Martin",
@@ -5165,6 +5354,7 @@
     "flag": "flag-pm",
     "name": {
       "common": "Saint Pierre and Miquelon",
+      "ara": "سان بيير وميكلون",
       "ces": "Saint-Pierre a Miquelon",
       "deu": "St. Pierre und Miquelon",
       "fra": "Saint-Pierre-et-Miquelon",
@@ -5192,6 +5382,7 @@
     "flag": "flag-vc",
     "name": {
       "common": "Saint Vincent and the Grenadines",
+      "ara": "سانت فينسنت والغرينادين",
       "ces": "Svatý Vincenc a Grenadiny",
       "deu": "St. Vincent und die Grenadinen",
       "fra": "Saint-Vincent-et-les-Grenadines",
@@ -5219,6 +5410,7 @@
     "flag": "flag-ws",
     "name": {
       "common": "Samoa",
+      "ara": "ساموا",
       "ces": "Samoa",
       "deu": "Samoa",
       "fra": "Samoa",
@@ -5246,6 +5438,7 @@
     "flag": "flag-sm",
     "name": {
       "common": "San Marino",
+      "ara": "سان مارينو",
       "ces": "San Marino",
       "deu": "San Marino",
       "fra": "Saint-Marin",
@@ -5273,6 +5466,7 @@
     "flag": "flag-sa",
     "name": {
       "common": "Saudi Arabia",
+      "ara": "السعودية",
       "ces": "Saúdská Arábie",
       "deu": "Saudi-Arabien",
       "fra": "Arabie Saoudite",
@@ -5300,6 +5494,7 @@
     "flag": "flag-sn",
     "name": {
       "common": "Senegal",
+      "ara": "السنغال",
       "ces": "Senegal",
       "deu": "Senegal",
       "fra": "Sénégal",
@@ -5327,6 +5522,7 @@
     "flag": "flag-rs",
     "name": {
       "common": "Serbia",
+      "ara": "صيربيا",
       "ces": "Srbsko",
       "deu": "Serbien",
       "fra": "Serbie",
@@ -5354,6 +5550,7 @@
     "flag": "flag-sc",
     "name": {
       "common": "Seychelles",
+      "ara": "سيشل",
       "ces": "Seychely",
       "deu": "Seychellen",
       "fra": "Seychelles",
@@ -5381,6 +5578,7 @@
     "flag": "flag-sl",
     "name": {
       "common": "Sierra Leone",
+      "ara": "سيراليون",
       "ces": "Sierra Leone",
       "deu": "Sierra Leone",
       "fra": "Sierra Leone",
@@ -5408,6 +5606,7 @@
     "flag": "flag-sg",
     "name": {
       "common": "Singapore",
+      "ara": "سنغافورة",
       "ces": "Singapur",
       "deu": "Singapur",
       "fra": "Singapour",
@@ -5434,6 +5633,7 @@
     "flag": "flag-sx",
     "name": {
       "common": "Sint Maarten",
+      "ara": "سينت مارتن",
       "ces": "Svatý Martin (Nizozemsko)",
       "deu": "Sint Maarten",
       "fra": "Saint-Martin",
@@ -5461,6 +5661,7 @@
     "flag": "flag-sk",
     "name": {
       "common": "Slovakia",
+      "ara": "سلوفاكيا",
       "ces": "Slovensko",
       "deu": "Slowakei",
       "fra": "Slovaquie",
@@ -5488,6 +5689,7 @@
     "flag": "flag-si",
     "name": {
       "common": "Slovenia",
+      "ara": "سلوفينيا",
       "ces": "Slovinsko",
       "deu": "Slowenien",
       "fra": "Slovénie",
@@ -5515,6 +5717,7 @@
     "flag": "flag-sb",
     "name": {
       "common": "Solomon Islands",
+      "ara": "جزر سليمان",
       "ces": "Šalamounovy ostrovy",
       "deu": "Salomonen",
       "fra": "Îles Salomon",
@@ -5542,6 +5745,7 @@
     "flag": "flag-so",
     "name": {
       "common": "Somalia",
+      "ara": "الصومال‎‎",
       "ces": "Somálsko",
       "deu": "Somalia",
       "fra": "Somalie",
@@ -5569,6 +5773,7 @@
     "flag": "flag-za",
     "name": {
       "common": "South Africa",
+      "ara": "جنوب أفريقيا",
       "ces": "Jihoafrická republika",
       "deu": "Südafrika",
       "fra": "Afrique du Sud",
@@ -5596,6 +5801,7 @@
     "flag": "flag-gs",
     "name": {
       "common": "South Georgia",
+      "ara": "جورجيا الجنوبية",
       "ces": "Jižní Georgie a Jižní Sandwichovy ostrovy",
       "deu": "Südgeorgien und die Südlichen Sandwichinseln",
       "fra": "Géorgie du Sud-et-les Îles Sandwich du Sud",
@@ -5623,6 +5829,7 @@
     "flag": "flag-kr",
     "name": {
       "common": "South Korea",
+      "ara": "كوريا الجنوبية",
       "ces": "Jižní Korea",
       "deu": "Südkorea",
       "fra": "Corée du Sud",
@@ -5650,6 +5857,7 @@
     "flag": "flag-ss",
     "name": {
       "common": "South Sudan",
+      "ara": "جنوب السودان",
       "ces": "Jižní Súdán",
       "deu": "Südsudan",
       "fra": "Soudan du Sud",
@@ -5677,6 +5885,7 @@
     "flag": "flag-es",
     "name": {
       "common": "Spain",
+      "ara": "إسبانيا",
       "ces": "Španělsko",
       "deu": "Spanien",
       "fra": "Espagne",
@@ -5704,6 +5913,7 @@
     "flag": "flag-lk",
     "name": {
       "common": "Sri Lanka",
+      "ara": "سريلانكا",
       "ces": "Srí Lanka",
       "deu": "Sri Lanka",
       "fra": "Sri Lanka",
@@ -5731,6 +5941,7 @@
     "flag": "flag-sd",
     "name": {
       "common": "Sudan",
+      "ara": "السودان",
       "ces": "Súdán",
       "deu": "Sudan",
       "fra": "Soudan",
@@ -5758,6 +5969,7 @@
     "flag": "flag-sr",
     "name": {
       "common": "Suriname",
+      "ara": "سورينام",
       "ces": "Surinam",
       "deu": "Suriname",
       "fra": "Surinam",
@@ -5785,6 +5997,7 @@
     "flag": "flag-sj",
     "name": {
       "common": "Svalbard and Jan Mayen",
+      "ara": "سفالبارد ويان ماين",
       "ces": "Špicberky a Jan Mayen",
       "deu": "Spitzbergen und Jan Mayen",
       "fra": "Svalbard et Jan Mayen",
@@ -5812,6 +6025,7 @@
     "flag": "flag-se",
     "name": {
       "common": "Sweden",
+      "ara": "السويد",
       "ces": "Švédsko",
       "deu": "Schweden",
       "fra": "Suède",
@@ -5839,6 +6053,7 @@
     "flag": "flag-ch",
     "name": {
       "common": "Switzerland",
+      "ara": "سويسرا",
       "ces": "Švýcarsko",
       "deu": "Schweiz",
       "fra": "Suisse",
@@ -5866,6 +6081,7 @@
     "flag": "flag-sy",
     "name": {
       "common": "Syria",
+      "ara": "سوريا",
       "ces": "Sýrie",
       "deu": "Syrien",
       "fra": "Syrie",
@@ -5893,6 +6109,7 @@
     "flag": "flag-st",
     "name": {
       "common": "São Tomé and Príncipe",
+      "ara": "ساو تومي وبرينسيب",
       "ces": "Svatý Tomáš a Princův ostrov",
       "deu": "São Tomé und Príncipe",
       "fra": "São Tomé et Príncipe",
@@ -5920,6 +6137,7 @@
     "flag": "flag-tw",
     "name": {
       "common": "Taiwan",
+      "ara": "تايوان",
       "ces": "Tchaj-wan",
       "deu": "Taiwan",
       "fra": "Taïwan",
@@ -5946,6 +6164,7 @@
     "flag": "flag-tj",
     "name": {
       "common": "Tajikistan",
+      "ara": "طاجيكستان",
       "ces": "Tádžikistán",
       "deu": "Tadschikistan",
       "fra": "Tadjikistan",
@@ -5973,6 +6192,7 @@
     "flag": "flag-tz",
     "name": {
       "common": "Tanzania",
+      "ara": "تنزانيا",
       "ces": "Tanzanie",
       "deu": "Tansania",
       "fra": "Tanzanie",
@@ -6000,6 +6220,7 @@
     "flag": "flag-th",
     "name": {
       "common": "Thailand",
+      "ara": "تايلند",
       "ces": "Thajsko",
       "deu": "Thailand",
       "fra": "Thaïlande",
@@ -6027,6 +6248,7 @@
     "flag": "flag-tl",
     "name": {
       "common": "Timor-Leste",
+      "ara": "تيمور الشرقية",
       "ces": "Východní Timor",
       "deu": "Osttimor",
       "fra": "Timor oriental",
@@ -6054,6 +6276,7 @@
     "flag": "flag-tg",
     "name": {
       "common": "Togo",
+      "ara": "توغو",
       "ces": "Togo",
       "deu": "Togo",
       "fra": "Togo",
@@ -6081,6 +6304,7 @@
     "flag": "flag-tk",
     "name": {
       "common": "Tokelau",
+      "ara": "توكيلاو",
       "ces": "Tokelau",
       "deu": "Tokelau",
       "fra": "Tokelau",
@@ -6108,6 +6332,7 @@
     "flag": "flag-to",
     "name": {
       "common": "Tonga",
+      "ara": "تونغا",
       "ces": "Tonga",
       "deu": "Tonga",
       "fra": "Tonga",
@@ -6135,6 +6360,7 @@
     "flag": "flag-tt",
     "name": {
       "common": "Trinidad and Tobago",
+      "ara": "ترينيداد وتوباغو",
       "ces": "Trinidad a Tobago",
       "deu": "Trinidad und Tobago",
       "fra": "Trinité-et-Tobago",
@@ -6162,6 +6388,7 @@
     "flag": "flag-tn",
     "name": {
       "common": "Tunisia",
+      "ara": "تونس",
       "ces": "Tunisko",
       "deu": "Tunesien",
       "fra": "Tunisie",
@@ -6189,6 +6416,7 @@
     "flag": "flag-tr",
     "name": {
       "common": "Turkey",
+      "ara": "تركيا",
       "ces": "Turecko",
       "deu": "Türkei",
       "fra": "Turquie",
@@ -6216,6 +6444,7 @@
     "flag": "flag-tm",
     "name": {
       "common": "Turkmenistan",
+      "ara": "تركمانستان",
       "ces": "Turkmenistán",
       "deu": "Turkmenistan",
       "fra": "Turkménistan",
@@ -6243,6 +6472,7 @@
     "flag": "flag-tc",
     "name": {
       "common": "Turks and Caicos Islands",
+      "ara": "جزر توركس وكايكوس",
       "ces": "Turks a Caicos",
       "deu": "Turks-und Caicosinseln",
       "fra": "Îles Turques-et-Caïques",
@@ -6270,6 +6500,7 @@
     "flag": "flag-tv",
     "name": {
       "common": "Tuvalu",
+      "ara": "توفالو",
       "ces": "Tuvalu",
       "deu": "Tuvalu",
       "fra": "Tuvalu",
@@ -6297,6 +6528,7 @@
     "flag": "flag-ug",
     "name": {
       "common": "Uganda",
+      "ara": "أوغندا",
       "ces": "Uganda",
       "deu": "Uganda",
       "fra": "Ouganda",
@@ -6324,6 +6556,7 @@
     "flag": "flag-ua",
     "name": {
       "common": "Ukraine",
+      "ara": "أوكرانيا",
       "ces": "Ukrajina",
       "deu": "Ukraine",
       "fra": "Ukraine",
@@ -6351,6 +6584,7 @@
     "flag": "flag-ae",
     "name": {
       "common": "United Arab Emirates",
+      "ara": "الإمارات العربية المتحدة",
       "ces": "Spojené arabské emiráty",
       "deu": "Vereinigte Arabische Emirate",
       "fra": "Émirats arabes unis",
@@ -6378,6 +6612,7 @@
     "flag": "flag-gb",
     "name": {
       "common": "United Kingdom",
+      "ara": "المملكة المتحدة",
       "ces": "Spojené království",
       "deu": "Vereinigtes Königreich",
       "fra": "Royaume-Uni",
@@ -6405,6 +6640,7 @@
     "flag": "flag-us",
     "name": {
       "common": "United States",
+      "ara": "الولايات المتحدة",
       "ces": "Spojené státy",
       "deu": "Vereinigte Staaten",
       "fra": "États-Unis",
@@ -6432,6 +6668,7 @@
     "flag": "flag-um",
     "name": {
       "common": "United States Minor Outlying Islands",
+      "ara": "جزر الولايات المتحدة الصغيرة النائية",
       "ces": "Menší odlehlé ostrovy USA",
       "deu": "Kleinere Inselbesitzungen der Vereinigten Staaten",
       "fra": "Îles mineures éloignées des États-Unis",
@@ -6459,6 +6696,7 @@
     "flag": "flag-vi",
     "name": {
       "common": "United States Virgin Islands",
+      "ara": "جزر العذراء الامريكية",
       "ces": "Americké Panenské ostrovy",
       "deu": "Amerikanische Jungferninseln",
       "fra": "Îles Vierges des États-Unis",
@@ -6486,6 +6724,7 @@
     "flag": "flag-uy",
     "name": {
       "common": "Uruguay",
+      "ara": "الأوروغواي",
       "ces": "Uruguay",
       "deu": "Uruguay",
       "fra": "Uruguay",
@@ -6513,6 +6752,7 @@
     "flag": "flag-uz",
     "name": {
       "common": "Uzbekistan",
+      "ara": "أوزباكستان",
       "ces": "Uzbekistán",
       "deu": "Usbekistan",
       "fra": "Ouzbékistan",
@@ -6540,6 +6780,7 @@
     "flag": "flag-vu",
     "name": {
       "common": "Vanuatu",
+      "ara": "فانواتو",
       "ces": "Vanuatu",
       "deu": "Vanuatu",
       "fra": "Vanuatu",
@@ -6567,6 +6808,7 @@
     "flag": "flag-va",
     "name": {
       "common": "Vatican City",
+      "ara": "مدينة الفاتيكان",
       "ces": "Vatikán",
       "deu": "Vatikanstadt",
       "fra": "Cité du Vatican",
@@ -6594,6 +6836,7 @@
     "flag": "flag-ve",
     "name": {
       "common": "Venezuela",
+      "ara": "فنزويلا",
       "ces": "Venezuela",
       "deu": "Venezuela",
       "fra": "Venezuela",
@@ -6621,6 +6864,7 @@
     "flag": "flag-vn",
     "name": {
       "common": "Vietnam",
+      "ara": "فيتنام",
       "ces": "Vietnam",
       "deu": "Vietnam",
       "fra": "Viêt Nam",
@@ -6648,6 +6892,7 @@
     "flag": "flag-wf",
     "name": {
       "common": "Wallis and Futuna",
+      "ara": "واليس وفوتونا",
       "ces": "Wallis a Futuna",
       "deu": "Wallis und Futuna",
       "fra": "Wallis-et-Futuna",
@@ -6675,6 +6920,7 @@
     "flag": "flag-eh",
     "name": {
       "common": "Western Sahara",
+      "ara": "الصحراء الغربية",
       "ces": "Západní Sahara",
       "deu": "Westsahara",
       "fra": "Sahara Occidental",
@@ -6702,6 +6948,7 @@
     "flag": "flag-ye",
     "name": {
       "common": "Yemen",
+      "ara": "اليمن",
       "ces": "Jemen",
       "deu": "Jemen",
       "fra": "Yémen",
@@ -6729,6 +6976,7 @@
     "flag": "flag-zm",
     "name": {
       "common": "Zambia",
+      "ara": "زامبيا",
       "ces": "Zambie",
       "deu": "Sambia",
       "fra": "Zambie",
@@ -6756,6 +7004,7 @@
     "flag": "flag-zw",
     "name": {
       "common": "Zimbabwe",
+      "ara": "زيمبابوي",
       "ces": "Zimbabwe",
       "deu": "Simbabwe",
       "fra": "Zimbabwe",
@@ -6783,6 +7032,7 @@
     "flag": "flag-ax",
     "name": {
       "common": "Åland Islands",
+      "ara": "جزر أولاند",
       "ces": "Ålandy",
       "deu": "Åland",
       "fra": "Ahvenanmaa",
