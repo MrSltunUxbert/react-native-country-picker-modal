@@ -1,5 +1,5 @@
 import React, { ReactNode } from 'react'
-import { TextProps, Text } from 'react-native'
+import { TextProps, Text, I18nManager } from 'react-native'
 import { useTheme } from './CountryTheme'
 
 export const CountryText = (props: TextProps & { children: ReactNode }) => {
@@ -7,7 +7,13 @@ export const CountryText = (props: TextProps & { children: ReactNode }) => {
   return (
     <Text
       {...props}
-      style={{ fontFamily, fontSize, color: onBackgroundTextColor }}
+      style={{
+        fontFamily,
+        fontSize,
+        color: onBackgroundTextColor,
+        writingDirection: I18nManager.isRTL ? 'rtl' : 'ltr',
+        textAlign: 'left'
+      }}
     />
   )
 }
